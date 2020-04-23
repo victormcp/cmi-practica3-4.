@@ -1,4 +1,4 @@
-function Movie_OnStart(1){
+function Movie_OnStart(){
 StackTrace="On Start";
 SoundPlay("star2",true);
 VideoSetVolume("video",0);
